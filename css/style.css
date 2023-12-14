@@ -1,0 +1,19 @@
+/* this style keeps the Gulp logo from taking over the whole page. Adjust if needed to size correctly for your page. */
+
+nav img, nav .img-fluid {
+    max-width: 150px;
+  }
+  
+  .bg-primary{
+    background-color:#131D26 !important;
+  }
+  .border-primary{
+    border-color:#59331d !important;
+  }
+  
+  .container-bkgd {
+   background: #ffffff url(../media/images/gulp-bottom-beans.jpg) repeat-x bottom;
+    padding-bottom: 250px;
+  }
+  
+  
